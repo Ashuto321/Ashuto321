@@ -1,4 +1,4 @@
-<h1 align="center">Hello！👋こんにちは　私わアシュトシュです, I'm Ashutosh_Pandey</h1>
+<h1 align="center">Hello！👋こんにちは　私はアシュトシュです, I'm Ashutosh_Pandey</h1>
 <h3 align="center">Frontend • Backend • Gen AI Developer | AI Agents | Data Science Tools | Automation Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuto321&label=Views&color=edf109&style=plastic" alt="ashuto321" /> </p>
