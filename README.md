@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **jackworth970@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12CqYG2fCass7NCcbN6NKbv9Or-PNajmV/edit?usp=sharing&ouid=117466142609980273888&rtpof=true&sd=true](https://docs.google.com/document/d/12CqYG2fCass7NCcbN6NKbv9Or-PNajmV/edit?usp=sharing&ouid=117466142609980273888&rtpof=true&sd=true)
+- 📄 Know about my experiences(Resume) [https://docs.google.com/document/d/12CqYG2fCass7NCcbN6NKbv9Or-PNajmV/edit?usp=sharing&ouid=117466142609980273888&rtpof=true&sd=true](https://docs.google.com/document/d/12CqYG2fCass7NCcbN6NKbv9Or-PNajmV/edit?usp=sharing&ouid=117466142609980273888&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I am Learning Japanese with tech　私の名前はアシュトシュです。Edu HubSpotの会社員です。よろしくお願いします**
+- ⚡ Fun fact **I am Learning Japanese with tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
