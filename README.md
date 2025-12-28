@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuto321" alt="ashuto321" /></a> </p>
 
-- 🌱 I’m currently learning **Scikit learn, Pandas , NumPy, Machine Learning**
+- 🌱 I’m currently learning **Scikit learn, Pandas , NumPy, Machine Learning** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashuto321?tab=repositories](https://github.com/Ashuto321?tab=repositories)
 
