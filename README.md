@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jackworth970@gmail.com**
 
-- 📄 Know about my experiences(Resume) [https://docs.google.com/document/d/12CqYG2fCass7NCcbN6NKbv9Or-PNajmV/edit?usp=sharing&ouid=117466142609980273888&rtpof=true&sd=true](https://docs.google.com/document/d/12CqYG2fCass7NCcbN6NKbv9Or-PNajmV/edit?usp=sharing&ouid=117466142609980273888&rtpof=true&sd=true)
+- 📄 Know about my experiences(Resume) [file:///C:/Users/Ashutosh%20Pandey/OneDrive/Desktop/desktopfiles/resume/Ashutosh_Pandey.pdf]
 
 - ⚡ Fun fact **I am Learning Japanese with tech**
 
