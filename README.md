@@ -1,7 +1,7 @@
-# Ashutosh Pandey
+                                                                                # Ashutosh Pandey
 ## AI/ML Engineer → Building Production RAG & Agentic Systems
 
-I build intelligent systems that *work in production*. Specializing in **Retrieval-Augmented Generation (RAG)**, **LangChain frameworks**, and **autonomous agents**—turning complex NLP problems into scalable applications.
+I build intelligent systems that *work in production*. Specializing in **Retrieval-Augmented Generation (RAG)**, **LangChain frameworks**, and **autonomous agents**turning complex NLP problems into scalable applications.
 
 ---
 
@@ -41,15 +41,6 @@ I build intelligent systems that *work in production*. Specializing in **Retriev
 
 ---
 
-## 📊 Current Focus
-
-🔭 Building production-grade RAG systems  
-🧠 Mastering multi-agent architectures  
-📈 Optimizing LLM inference costs and latency  
-🔬 Exploring prompt engineering best practices  
-
----
-
 ## 💡 Why Work With Me
 
 ✅ **Full-stack AI knowledge** – From model training to API deployment  
@@ -57,31 +48,6 @@ I build intelligent systems that *work in production*. Specializing in **Retriev
 ✅ **Problem solver** – I break down complex problems and choose the right tools (not just trending ones)  
 ✅ **Fast learner** – New frameworks and paradigms? I pick them up quickly  
 ✅ **Collaborative** – Open to feedback, love discussing architecture decisions  
-
----
-
-## 🔗 Full Tech Stack
-
-<details>
-<summary><b>Click to expand full skill set →</b></summary>
-
-**Programming Languages:** Python, C++, JavaScript, PHP  
-
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain, Ollama  
-
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter  
-
-**Backend & APIs:** FastAPI, Python, Node.js  
-
-**Cloud Platforms:** AWS (EC2, S3, Lambda), GCP (Vertex AI, BigQuery), Heroku  
-
-**Databases:** MySQL, Vector Databases (Pinecone, Milvus, ChromaDB)  
-
-**DevOps & Tools:** Docker, Linux, Git, Postman, Figma  
-
-**Data Engineering:** Data pipelines, ETL workflows, batch processing  
-
-</details>
 
 ---
 
