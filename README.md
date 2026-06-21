@@ -17,28 +17,6 @@ I build intelligent systems that *work in production*. Specializing in **Retriev
 
 ---
 
-## 💼 Featured Projects
-
-### 1. **RAG-Powered Document Intelligence System**
-Intelligent document Q&A system using semantic chunking and multi-stage retrieval.
-- **Stack:** LangChain, OpenAI embeddings, Pinecone/ChromaDB, FastAPI
-- **Impact:** Reduced document search time from 2 hours to 30 seconds
-- **[View on GitHub]()**
-
-### 2. **Multi-Agent Collaboration Framework**
-Autonomous agents that delegate tasks, validate outputs, and learn from errors.
-- **Stack:** LangChain agents, tool calling, memory management, structured outputs
-- **Features:** Self-correction loops, tool composition, state management
-- **[View on GitHub]()**
-
-### 3. **LLM Fine-tuning Pipeline**
-End-to-end pipeline for domain-specific model optimization.
-- **Stack:** PyTorch, Hugging Face, LoRA, Weights & Biases tracking
-- **Result:** 40% improvement in task-specific accuracy
-- **[View on GitHub]()**
-
----
-
 ## 🛠️ Core Technologies
 
 | Category | Tools |
