@@ -1,4 +1,4 @@
-# こんにちは,　みんな 👋, I'm Ashutosh Pandey
+# こんにちは,　みつな 👋, I'm Ashutosh Pandey
 
 ### Software Developer(AI/ML)
 
