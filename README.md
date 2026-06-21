@@ -1,4 +1,4 @@
-                                                                                # Ashutosh Pandey
+<h1 align="center">Ashutosh Pandey</h1>
 ## AI/ML Engineer → Building Production RAG & Agentic Systems
 
 I build intelligent systems that *work in production*. Specializing in **Retrieval-Augmented Generation (RAG)**, **LangChain frameworks**, and **autonomous agents**turning complex NLP problems into scalable applications.
