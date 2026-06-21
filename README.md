@@ -1,7 +1,4 @@
 <h1 align="center">Ashutosh Pandey</h1>
-## AI/ML Engineer → Building Production RAG & Agentic Systems
-
-# Hi 👋, I'm Ashutosh Pandey
 
 ### Software Developer(AI/ML)
 
