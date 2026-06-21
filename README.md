@@ -1,65 +1,34 @@
-<h1 align="center">Ashutosh Pandey</h1>
+#Ashutosh Pandey
 
-<p align="center">
-  <b>Generative AI Research Analyst @ Edureka</b><br>
-  AI Engineer • RAG • LangChain • Agentic AI
+### Software Developer(AI/ML)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashuto321&label=Profile views&color=0e75b6&style=flat" alt="Ashuto321" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashuto321" alt="Ashuto321" /></a> </p>
+
+- 🔭 I'm currently working on **RAG, Langchain framework and tools toolkits , Agents**
+
+- 🌱 I'm currently learning **Machine Learning**
+
+- 👯 I'm looking to collaborate on **LinkedIn**
+
+- 📫 How to reach me **jackworth970@gmail.com**
+
+- 📄 Know about my experiences **[https://github.com/Ashuto321/Ashuto321/blob/de8378aa151d0e33a692afd49d89e22e0b0025e3/Ashutosh_Pandey.pdf](https://github.com/Ashuto321/Ashuto321/blob/de8378aa151d0e33a692afd49d89e22e0b0025e3/Ashutosh_Pandey.pdf)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Ashuto321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ashuto321" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh-pandeyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-pandeyb" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/ashu_970/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashu_970/" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  Building production-ready AI applications powered by LLMs, Retrieval-Augmented Generation, and intelligent agents.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
 
-<p align="center">
-  <a href="https://github.com/Ashuto321">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ashutosh-pandeyb">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:jackworth970@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ashu_970/">
-    <img src="https://github.com/Ashuto321/Ashuto321/blob/0451b720128987b8d6a7a862375d4c4ef7c184e0/LeetCode_logo_black.png" width="28"/>
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashuto321&show_icons=true&locale=en&layout=compact" alt="Ashuto321" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashuto321&show_icons=true&locale=en" alt="Ashuto321" /></p>
 
-<h3>About Me</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashuto321&" alt="Ashuto321" /></p>
 
-<ul>
-  <li>Building AI applications using LLMs, RAG pipelines, and autonomous agents</li>
-  <li>Experience with LangChain, FastAPI, Vector Databases, and Cloud Deployment</li>
-  <li>Passionate about transforming research into production-ready systems</li>
-</ul>
-
-<h3>Featured Projects</h3>
-
-<ul>
-  <li><b>Document Q&A Assistant</b> — RAG-powered knowledge retrieval system</li>
-  <li><b>SQL Query Generator</b> — Natural language to SQL with explanations</li>
-  <li><b>Medical Disease Detector</b> — ML-powered medical image classification</li>
-  <li><b>Neuro Drawing Classifier</b> — Real-time drawing recognition application</li>
-</ul>
-
-<h3>Tech Stack</h3>
-
-<p>
-Python • LangChain • FastAPI • PyTorch • TensorFlow • Hugging Face • ChromaDB • Pinecone • Docker • AWS • GCP
-</p>
-
-<h3>Current Focus</h3>
-
-<p>
-Advanced RAG • Multi-Agent Systems • LLM Evaluation • AI Browser Extensions
-</p>
-
-<hr>
-
-<p align="center">
-  <i>"Building useful AI systems, not just AI demos."</i>
-</p>
