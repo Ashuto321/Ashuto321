@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jackworth970@gmail.com**
 
-- 📄 Know about my experiences **[https://github.com/Ashuto321/Ashuto321/blob/de8378aa151d0e33a692afd49d89e22e0b0025e3/Ashutosh_Pandey.pdf](https://github.com/Ashuto321/Ashuto321/blob/de8378aa151d0e33a692afd49d89e22e0b0025e3/Ashutosh_Pandey.pdf)**
+- 📄 Know about my experiences(Resume) **[https://github.com/Ashuto321/Ashuto321/blob/de8378aa151d0e33a692afd49d89e22e0b0025e3/Ashutosh_Pandey.pdf](https://github.com/Ashuto321/Ashuto321/blob/de8378aa151d0e33a692afd49d89e22e0b0025e3/Ashutosh_Pandey.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
