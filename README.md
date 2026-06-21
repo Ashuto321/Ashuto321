@@ -2,10 +2,6 @@
 
 ### Software Developer(AI/ML)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashuto321&label=Profile views&color=0e75b6&style=flat" alt="Ashuto321" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashuto321" alt="Ashuto321" /></a> </p>
-
 - 🔭 I'm currently working on **RAG, Langchain framework and tools toolkits , Agents**
 
 - 🌱 I'm currently learning **Machine Learning**
