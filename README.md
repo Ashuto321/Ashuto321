@@ -13,9 +13,6 @@ I build intelligent systems that *work in production*. Specializing in **Retriev
 - 🔗 **LangChain Frameworks** – Building composable agent architectures, tool integrations, and memory systems
 - 🤖 **Agentic AI** – Creating autonomous agents with reasoning loops, tool calling, and structured outputs
 - 🚀 **Production ML** – Docker, AWS, GCP deployments; API-first development with FastAPI
-
-**What recruiters should know:** I don't just use tools—I understand *why* they work and when to choose alternatives. I write production-ready code with documentation and tests.
-
 ---
 
 ## 🛠️ Core Technologies
