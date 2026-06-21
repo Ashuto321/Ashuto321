@@ -23,7 +23,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/ashu_970/">
-    <img src="[https://cdn-icons-png.flaticon.com/512/5968/5968282.png](https://github.com/Ashuto321/Ashuto321/blob/0451b720128987b8d6a7a862375d4c4ef7c184e0/LeetCode_logo_black.png)" width="28"/>
+    <img src="https://github.com/Ashuto321/Ashuto321/blob/0451b720128987b8d6a7a862375d4c4ef7c184e0/LeetCode_logo_black.png" width="28"/>
   </a>
 </p>
 
