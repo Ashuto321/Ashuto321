@@ -2,9 +2,9 @@
 
 ### Software Developer(AI/ML)
 
-- 🔭 I'm currently working on **RAG, Langchain framework and tools toolkits , Agents**
+- 🔭 I'm currently working on **RAG, Langchain framework and tools toolkits, LangGraph, Workflows, Langsmith , Agents**
 
-- 🌱 I'm currently learning **Machine Learning**
+- 🌱 I'm currently learning **Machine Learning/DS,DA**
 
 - 👯 I'm looking to collaborate on **LinkedIn**
 
